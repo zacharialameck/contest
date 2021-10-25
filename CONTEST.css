@@ -1,0 +1,39 @@
+nav{
+	background-color:darkgray;
+	padding-top: 50px;
+	position: relative;
+}
+#container{
+	background-color:beige;
+
+}
+
+#footer{
+        padding-bottom: 5000px;
+		background-color: black;
+		flex-direction: bottom;
+
+		
+}
+
+
+table{
+	border-color: yellow;
+}
+#div1{background-color:white;	
+	float: right;
+}
+.rounded{
+	border-radius: 50%;
+}
+#div2{
+	background-color:white;
+	float: left; 
+
+}
+.rounded{
+	border-radius: 50%;
+	}
+
+	
+	
